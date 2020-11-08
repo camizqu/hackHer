@@ -32,3 +32,8 @@ News portion that relays headlines related to COVID-19 at the time it is run. Cr
 
 Nearby hospitals that uses Google Places API to return all hospitals within a 100km radius of the inputted latitude and longitude.
 (Currently produces an error because the API uses paid content)
+
+## Icon Attributions
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+Icons made by <a href="https://www.flaticon.com/authors/ultimatearm" title="ultimatearm">ultimatearm</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
